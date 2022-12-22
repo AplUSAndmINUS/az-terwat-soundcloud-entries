@@ -1,0 +1,19 @@
+{
+  "name": "az-terwat-soundcloud-entries",
+  "version": "1.0.0",
+  "description": "SoundCloud API Azure Function to pull entries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AplUSAndmINUS/az-terwat-soundcloud-entries.git"
+  },
+  "author": "Terence Waters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AplUSAndmINUS/az-terwat-soundcloud-entries/issues"
+  },
+  "homepage": "https://github.com/AplUSAndmINUS/az-terwat-soundcloud-entries#readme"
+}
